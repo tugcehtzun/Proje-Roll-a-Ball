@@ -15,10 +15,10 @@ Tuğçe Hilal Tüzün Product Owner,Scrum Master,Team Member/Developer
 Sprint3
 
 Ürün Açıklaması,Ürün Özellikleri:
-Oyun belirli bir yaşın üstündeki insanların beyin jimnastiği yapmasını sağlar.
+Oyun belirli bir yaşın üstündeki insanların beyin jimnastiği yapmasını sağlamak amacıyla yapıldı.
 
 Hedef Kitle:
-65 yaş üstü  kullanıcılar
+65 yaş ve üstü  kullanıcılar
 
 
 
